@@ -1,7 +1,20 @@
 <h1 align="center">Hi 👋, I'm Neo</h1>
 <h3 align="center">A senior full-stack engineer with experience in many outsource/product projects, and I have developed social listening big data system and stock real-time system through many outsource and product projects. I am consistently striving to learn and climb the ladder of success.</h3>
 
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>Software Engineer at <a href="https://kompa.ai">Kompa AI</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=congdinh&label=Profile%20views&color=0e75b6&style=flat" alt="congdinh" /> </p>
+
+### 📫 Like to meet me?
+
+Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
+
+<a href="https://calendly.com/neod/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
+
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=congdinh" alt="congdinh" /></a> </p>
 
@@ -38,4 +51,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=congdinh&show_icons=true&locale=en" alt="congdinh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=congdinh&" alt="congdinh" /></p>
-
