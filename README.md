@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Neo</h1>
-<h3 align="center">A passionate full-stack developer from Ho Chi Minh City, Viet Nam</h3>
+<h3 align="center">A senior full-stack engineer with experience in many outsource/product projects, and I have developed social listening big data system and stock real-time system through many outsource and product projects. I am consistently striving to learn and climb the ladder of success.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=congdinh&label=Profile%20views&color=0e75b6&style=flat" alt="congdinh" /> </p>
 
