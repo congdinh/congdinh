@@ -26,7 +26,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 
 - 🤝 I’m a volunteer contributing to the [HelpMe! Project](https://www.giuptoi.vn)
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/antonid/](https://www.linkedin.com/in/antonid/)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/neod/](https://www.linkedin.com/in/neod/)
 
 - 📝 Articles related to my project [https://vnexpress.net/nguoi-viet-lam-web-ve-virus-corona-trong-12-tieng-4050805.html](https://vnexpress.net/nguoi-viet-lam-web-ve-virus-corona-trong-12-tieng-4050805.html)
 
@@ -34,13 +34,13 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 
 - 📫 How to reach me **neodingvn@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/antonid/](https://www.linkedin.com/in/antonid/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/neod/](https://www.linkedin.com/in/neod/)
 
 - ⚡ Fun fact **I'm a developer but love design**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/antonid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antonid" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/neod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neod" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
