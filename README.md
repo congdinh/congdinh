@@ -32,7 +32,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 
 - 💬 Ask me about **Backend, System, Cloud Service, NodeJS, ExpressJS, Apollo GraphQL, Gateway, Monitoring, ReactJS, Elasticsearch Cluster, Redis Realtime PubSub, Stock Price-board**
 
-- 📊 Awesome charting for social media buzz: Charts [https://congdinh.github.io/charts/]
+- 📊 Awesome charting for social media buzz: [Charts] (https://congdinh.github.io/charts/)
 
 - 📫 How to reach me **neodingvn@gmail.com**
 
