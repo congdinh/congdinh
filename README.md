@@ -30,7 +30,9 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 
 - 📝 Articles related to my project [https://vnexpress.net/nguoi-viet-lam-web-ve-virus-corona-trong-12-tieng-4050805.html](https://vnexpress.net/nguoi-viet-lam-web-ve-virus-corona-trong-12-tieng-4050805.html)
 
-- 💬 Ask me about **NodeJS, ExpressJS, Apollo GraphQL, ReactJS, Elasticsearch Cluster, Redis Realtime PubSub,Stock Price-board**
+- 💬 Ask me about **Backend, System, Cloud Service, NodeJS, ExpressJS, Apollo GraphQL, Gateway, Monitoring, ReactJS, Elasticsearch Cluster, Redis Realtime PubSub, Stock Price-board**
+
+- 📊 Awesome charting for social media buzz: Charts [https://congdinh.github.io/charts/]
 
 - 📫 How to reach me **neodingvn@gmail.com**
 
